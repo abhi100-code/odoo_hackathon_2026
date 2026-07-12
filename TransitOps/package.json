@@ -1,0 +1,29 @@
+{
+  "name": "transitops",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bcryptjs": "^3.0.3",
+    "bootstrap": "^5.3.8",
+    "chart.js": "^4.5.1",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^1.24.0",
+    "mongoose": "^9.7.4",
+    "next": "15.5.20",
+    "react": "19.1.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.20"
+  }
+}
